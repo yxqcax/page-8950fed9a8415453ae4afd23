@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4db8569679181f33ddd8eee6",
+  "owner": "yxqcax",
+  "repo": "page-8950fed9a8415453ae4afd23",
+  "title": "吉吉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8950fed9a8415453ae4afd23",
+      "a": "吉吉云",
+      "b": "稳定全球clash加速器",
+      "entity": "吉吉云",
+      "brand": "吉吉云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "99fd3fbcbf8e38c89003adba6bdfc0b6a0aaac51147a0cbdc2c7e692b4eab2d5",
+      "content": {
+        "primary_entity": "吉吉云",
+        "keyword1": "吉吉云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择 Clash 客户端，Windows、macOS、Android、iOS 与路由器各有对应版本，依客户端文档配置订阅即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑好套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付与年付价格清晰可查，支持 Clash 客户端订阅导入，适合日常流媒体、游戏加速与多设备办公场景。",
+          "AI_FEATURES_INTRO": "从套餐对比到订阅配置，围绕实际使用场景梳理关键选择点。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线与 7x24 优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，可定制路由并配专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备定版",
+          "AI_FEATURE_TITLE_3": "按场景匹配",
+          "AI_GUIDE_INTRO": "从挑选服务、确认适配要求到导入订阅，按三步操作完成配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "吉吉云提供稳定全球加速服务，三档套餐覆盖不同流量与设备需求，配合 Clash 客户端导入订阅，满足流媒体、游戏与多设备办公场景。",
+          "AI_HERO_SUBTITLE": "稳定全球加速，多设备订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付价格更划算",
+          "AI_HIGHLIGHT_3": "支持 Clash 订阅导入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，可按设备数与月流量对比。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "先根据设备数量与每月流量需求，在基础版、旗舰版与团队版中选出合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐对客户端版本与系统的适配要求，确认设备满足条件。",
+          "AI_STEP_TEXT_3": "依 Clash 客户端文档导入订阅链接，完成后即可开始使用加速服务。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "吉吉云加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，适合手机加电脑的轻度使用；旗舰版每月 300GB、支持 5 台设备，适合多设备切换与流媒体观看；团队版每月 1000GB、支持 20 台设备，适合小团队共享。",
+          "AI_FAQ_ANSWER_2": "登录客户端后进入订阅设置，粘贴购买后获取的订阅地址，手动更新一次即可拉取节点列表。不同客户端菜单名称略有差异，可参考对应客户端的配置说明文档。",
+          "AI_FAQ_ANSWER_3": "同一时间在线的设备数量由套餐决定，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量会导致部分设备无法连接，可在客户端断开不用的设备后再连接新设备。",
+          "AI_FAQ_ANSWER_4": "支持。年付方案按十个月价格计算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比按月支付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "流媒体解锁取决于节点与所在地区，旗舰版与团队版覆盖更全的原生流媒体节点。如遇特定平台无法播放，可在客户端切换其他节点后重试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超了怎么办？",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁效果如何？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dfynm.cn",
+    "host": "dfynm.cn"
+  },
+  "file_hashes": {
+    "index.html": "9405eb827cc20d13a8f92f8d2cc608f55dacd02e89486623c4a9db3249a51681",
+    "sitemap.xml": "12f46fbd323286b31a1dbc5a37cedea23181a71e0ebb82d9efb04dda6efc3e4d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "57b87eb355588a766b2f7caeff3f8fbe044bf84896e2084ccbabe27e48393a16",
+    "robots.txt": "6c2199eaedee32790cce520c3e00980082938afef8278cfcc46c4b2f366da13b",
+    "9ecc2453d12176fbb9330bb4545e6f9c.txt": "d1cc77cf514287a0b392bb8fead7583a409d39398540f800d5c8e1d0bd2953fa"
+  },
+  "revision": "0d12b001e0291b76f2407efb39e5c3f807101200e6d1af9b39cd7319c8c756ce"
+}
